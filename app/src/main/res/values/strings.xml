@@ -1,0 +1,151 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">TravellBuddy</string>
+    
+    <!-- Authentication -->
+    <string name="login">Вход</string>
+    <string name="register">Регистрация</string>
+    <string name="email">Имейл</string>
+    <string name="password">Парола</string>
+    <string name="confirm_password">Потвърди парола</string>
+    <string name="forgot_password">Забравена парола?</string>
+    <string name="reset_password">Нулиране на парола</string>
+    <string name="logout">Изход</string>
+    <string name="dont_have_account">Нямате акаунт? Регистрирайте се</string>
+    <string name="already_have_account">Имате акаунт? Влезте</string>
+    
+    <!-- Profile -->
+    <string name="profile">Профил</string>
+    <string name="edit_profile">Редактиране на профил</string>
+    <string name="name">Име</string>
+    <string name="phone">Телефон</string>
+    <string name="bio">Биография</string>
+    <string name="interests">Интереси</string>
+    <string name="user_type">Тип потребител</string>
+    <string name="admin">Администратор</string>
+    <string name="regular_user">Обикновен потребител</string>
+    <string name="profile_picture">Профилна снимка</string>
+    <string name="change_picture">Промяна на снимка</string>
+    <string name="average_rating">Среден рейтинг</string>
+    
+    <!-- Trips -->
+    <string name="trips">Пътувания</string>
+    <string name="my_trips">Моите пътувания</string>
+    <string name="create_trip">Създаване на пътуване</string>
+    <string name="edit_trip">Редактиране на пътуване</string>
+    <string name="delete_trip">Изтриване на пътуване</string>
+    <string name="trip_details">Детайли за пътуването</string>
+    <string name="trip_title">Заглавие</string>
+    <string name="destination">Дестинация</string>
+    <string name="start_date">Начална дата</string>
+    <string name="end_date">Крайна дата</string>
+    <string name="description">Описание</string>
+    <string name="max_participants">Максимален брой участници</string>
+    <string name="current_participants">Текущи участници</string>
+    <string name="price">Цена</string>
+    <string name="category">Категория</string>
+    <string name="trip_image">Снимка на пътуването</string>
+    <string name="organizer">Организатор</string>
+    <string name="available_spots">Свободни места</string>
+    
+    <!-- Categories -->
+    <string name="adventure">Приключение</string>
+    <string name="cultural">Културно</string>
+    <string name="beach">Плаж</string>
+    <string name="mountain">Планина</string>
+    <string name="city">Град</string>
+    <string name="nature">Природа</string>
+    
+    <!-- Search and Filter -->
+    <string name="search">Търсене</string>
+    <string name="search_trips">Търсене на пътувания</string>
+    <string name="filter">Филтриране</string>
+    <string name="sort">Сортиране</string>
+    <string name="sort_by_date">По дата</string>
+    <string name="sort_by_price">По цена</string>
+    <string name="sort_by_popularity">По популярност</string>
+    <string name="date_range">Период</string>
+    <string name="price_range">Ценови диапазон</string>
+    <string name="apply_filters">Приложи филтри</string>
+    <string name="clear_filters">Изчисти филтри</string>
+    
+    <!-- Participation -->
+    <string name="apply_to_join">Кандидатствай</string>
+    <string name="participation_request">Заявка за участие</string>
+    <string name="participation_requests">Заявки за участие</string>
+    <string name="request_message">Съобщение към организатора</string>
+    <string name="approve">Одобри</string>
+    <string name="reject">Откажи</string>
+    <string name="pending">Изчакване</string>
+    <string name="approved">Одобрено</string>
+    <string name="rejected">Отказано</string>
+    <string name="participants">Участници</string>
+    <string name="view_participants">Виж участници</string>
+    
+    <!-- Chat -->
+    <string name="chat">Чат</string>
+    <string name="chat_list">Списък с чатове</string>
+    <string name="messages">Съобщения</string>
+    <string name="send_message">Изпрати съобщение</string>
+    <string name="type_message">Напишете съобщение…</string>
+    <string name="unread_messages">Непрочетени съобщения</string>
+    <string name="no_messages">Няма съобщения</string>
+    
+    <!-- Rating -->
+    <string name="rating">Оценка</string>
+    <string name="ratings">Оценки</string>
+    <string name="rate_trip">Оцени пътуването</string>
+    <string name="rate_organizer">Оцени организатора</string>
+    <string name="your_rating">Вашата оценка</string>
+    <string name="review">Отзив</string>
+    <string name="reviews">Отзиви</string>
+    <string name="write_review">Напишете отзив</string>
+    <string name="submit_rating">Изпрати оценка</string>
+    <string name="view_ratings">Виж оценки</string>
+    
+    <!-- Common -->
+    <string name="save">Запази</string>
+    <string name="cancel">Отказ</string>
+    <string name="delete">Изтрий</string>
+    <string name="edit">Редактирай</string>
+    <string name="update">Актуализирай</string>
+    <string name="submit">Изпрати</string>
+    <string name="back">Назад</string>
+    <string name="next">Напред</string>
+    <string name="close">Затвори</string>
+    <string name="ok">ОК</string>
+    <string name="yes">Да</string>
+    <string name="no">Не</string>
+    <string name="loading">Зареждане…</string>
+    <string name="no_data">Няма данни</string>
+    <string name="error">Грешка</string>
+    <string name="success">Успех</string>
+    
+    <!-- Error Messages -->
+    <string name="error_empty_field">Полето не може да бъде празно</string>
+    <string name="error_invalid_email">Невалиден имейл адрес</string>
+    <string name="error_password_mismatch">Паролите не съвпадат</string>
+    <string name="error_short_password">Паролата трябва да бъде поне 6 символа</string>
+    <string name="error_login_failed">Неуспешен вход</string>
+    <string name="error_register_failed">Неуспешна регистрация</string>
+    <string name="error_network">Грешка в мрежата</string>
+    <string name="error_load_data">Грешка при зареждане на данни</string>
+    <string name="error_save_data">Грешка при запазване на данни</string>
+    
+    <!-- Success Messages -->
+    <string name="success_login">Успешен вход</string>
+    <string name="success_register">Успешна регистрация</string>
+    <string name="success_profile_updated">Профилът е актуализиран</string>
+    <string name="success_trip_created">Пътуването е създадено</string>
+    <string name="success_trip_updated">Пътуването е актуализирано</string>
+    <string name="success_trip_deleted">Пътуването е изтрито</string>
+    <string name="success_request_sent">Заявката е изпратена</string>
+    <string name="success_rating_submitted">Оценката е изпратена</string>
+    
+    <!-- Confirmations -->
+    <string name="confirm_delete_trip">Сигурни ли сте, че искате да изтриете това пътуване?</string>
+    <string name="confirm_logout">Сигурни ли сте, че искате да излезете?</string>
+    
+    <!-- Firebase Setup -->
+    <string name="firebase_setup_required">Необходима е настройка на Firebase</string>
+</resources>
