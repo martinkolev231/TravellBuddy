@@ -1,0 +1,28 @@
+{
+  "IMPORTANT": "This is a placeholder file. You must replace this with your actual google-services.json file from Firebase Console.",
+  "INSTRUCTIONS": [
+    "1. Go to https://console.firebase.google.com/",
+    "2. Select or create your Firebase project",
+    "3. Add an Android app with package name: com.travellbuddy",
+    "4. Download the google-services.json file",
+    "5. Replace this file with the downloaded google-services.json",
+    "6. Make sure the file is located in the app/ directory"
+  ],
+  "WARNING": "The app will NOT work without a valid google-services.json file!",
+  "project_info": {
+    "project_number": "REPLACE_WITH_YOUR_PROJECT_NUMBER",
+    "firebase_url": "https://YOUR_PROJECT_ID.firebaseio.com",
+    "project_id": "YOUR_PROJECT_ID",
+    "storage_bucket": "YOUR_PROJECT_ID.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "REPLACE_WITH_YOUR_APP_ID",
+        "android_client_info": {
+          "package_name": "com.travellbuddy"
+        }
+      }
+    }
+  ]
+}
